@@ -105,7 +105,8 @@ OUTPUT:
 ![CODE SS](https://github.com/user-attachments/assets/5a89fad8-d49c-482f-a5a5-253c977db12b)
 
 
-![Screenshot_20240910_195808](https://github.com/user-attachments/assets/a03d1160-6e7a-4b03-b468-cd67256304b3)
+![OUTPUT SS](https://github.com/user-attachments/assets/5d9c842b-119b-403b-a67a-764c889419ea)
+
 
 
 
