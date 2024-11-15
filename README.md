@@ -102,15 +102,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT:
-![CODE SS](https://github.com/user-attachments/assets/5a89fad8-d49c-482f-a5a5-253c977db12b)
-
-
-![ex1](https://github.com/user-attachments/assets/c081dc5b-d76e-4d9d-9c44-fcccfcb5fb1a)
-
-
-
-
-
+![CODE SS](https://github.com/user-attachments/assets/5a89fad8-d49c-482f-a5a5-253c977db12b)![ex1](https://github.com/user-attachments/assets/c081dc5b-d76e-4d9d-9c44-fcccfcb5fb1a)
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
