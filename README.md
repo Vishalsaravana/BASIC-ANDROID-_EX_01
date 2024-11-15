@@ -27,13 +27,10 @@ Step 7: Save and run the application.
 
 ```
 package com.example.helloworld;
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
-
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -71,10 +68,8 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Toast toast=Toast.makeText(getApplicationContext(),"OnDestroy Executed",Toast.LENGTH_LONG);
         toast.show();
-
     }
 }
-
 ```
 
 
@@ -87,7 +82,6 @@ public class MainActivity extends AppCompatActivity {
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -96,10 +90,8 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 </android.support.constraint.ConstraintLayout>
 ```
-
 
 ## OUTPUT:
 ![CODE SS](https://github.com/user-attachments/assets/5a89fad8-d49c-482f-a5a5-253c977db12b)![ex1](https://github.com/user-attachments/assets/c081dc5b-d76e-4d9d-9c44-fcccfcb5fb1a)
