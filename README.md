@@ -36,8 +36,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast toast=Toast.makeText(getApplicationContext(),"OnCreate Executed",Toast.LENGTH_LONG);
-        toast.show();
-    }
+        toast.show();}
     protected void onStart(){
         super.onStart();
         Toast toast=Toast.makeText(getApplicationContext(),"OnStart Executed",Toast.LENGTH_LONG);
@@ -62,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
         Toast toast = Toast.makeText(getApplicationContext(), "OnRestart Executed", Toast.LENGTH_LONG);
         toast.show();
-
     }
     protected void onDestroy(){
         super.onDestroy();
