@@ -105,7 +105,8 @@ public class MainActivity extends AppCompatActivity {
 ![CODE SS](https://github.com/user-attachments/assets/5a89fad8-d49c-482f-a5a5-253c977db12b)
 
 
-![OUTPUT SS](https://github.com/user-attachments/assets/5d9c842b-119b-403b-a67a-764c889419ea)
+![ex1](https://github.com/user-attachments/assets/c081dc5b-d76e-4d9d-9c44-fcccfcb5fb1a)
+
 
 
 
